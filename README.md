@@ -14,6 +14,7 @@ iPhone8+
 
 # skills:
 - Delegation data passing
+- Data modeling
 - Codable
 - collectionview 
 - tableview
