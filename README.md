@@ -22,6 +22,18 @@ iPhone8+
 - Threading
 
 <img src="GithubberPix/img1.png" alt="drawing" width="300"/>
+<img src="GithubberPix/img2.png" alt="drawing" width="300"/>
+<img src="GithubberPix/img3.png" alt="drawing" width="300"/>
+<img src="GithubberPix/img4.png" alt="drawing" width="300"/>
+<img src="GithubberPix/img5.png" alt="drawing" width="300"/>
+<img src="GithubberPix/img6.png" alt="drawing" width="300"/>
+<img src="GithubberPix/img7.png" alt="drawing" width="300"/>
+<img src="GithubberPix/img8.png" alt="drawing" width="300"/>
+<img src="GithubberPix/img9.png" alt="drawing" width="300"/>
+<img src="GithubberPix/img10.png" alt="drawing" width="300"/>
+<img src="GithubberPix/img11.png" alt="drawing" width="300"/>
+<img src="GithubberPix/img12.png" alt="drawing" width="300"/>
+<img src="GithubberPix/img13.png" alt="drawing" width="300"/>
 
 
 
