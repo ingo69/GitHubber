@@ -21,8 +21,8 @@ iPhone8+
 - Pagination
 - Threading
 
+<img src="GithubberPix/img1.png" alt="drawing" width="300"/>
 
-![](GithubberPix/img1.png)
 
 
 
