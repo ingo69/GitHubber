@@ -22,7 +22,7 @@ iPhone8+
 - Threading
 
 
-![](GithubberPix.img1.png)
+![](GithubberPix/img1.png)
 
 
 
