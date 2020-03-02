@@ -25,7 +25,7 @@ iPhone8+
 - REST
 - Pagination
 - Threading
-- emptystate hadling
+- emptystate handling
 - active loading view
 - core animation
 - retain cycle prevention
