@@ -1,3 +1,7 @@
+
+
+<img src="GithubberPix/img3.png" alt="drawing" width="300"/>
+
 # GITHUBBER
 Keep track of your and your followers repositories, followings and followers.
 No Storyboard. Completely programtic using UIkit and no dependency managers
@@ -26,11 +30,11 @@ iPhone8+
 - core animation
 - retain cycle prevention
 
-<img src="GithubberPix/img3.png" alt="drawing" width="300"/>
-
 <img src="GithubberPix/img1.png" alt="drawing" width="300"/>
 
 <img src="GithubberPix/img2.png" alt="drawing" width="300"/>
+
+<img src="GithubberPix/img3.png" alt="drawing" width="300"/>
 
 <img src="GithubberPix/img4.png" alt="drawing" width="300"/>
 
